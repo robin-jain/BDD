@@ -1,5 +1,5 @@
 Feature: loginFeature
-  this feaure deals with the login functionality of the applicationbyRemote
+  this feaure deals with the login functionality of the applicationbyRemoteagainbyRemote
   this feaure deals with the login functionality of the applicationbyUI
 
 

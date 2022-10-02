@@ -1,7 +1,6 @@
 Feature: loginFeature
-  this feaure deals with the login functionality of the applicationbyUIagainbyUI
+  this feaure deals with the login functionality of the applicationbyUIagainbyUIthird
   this feaure deals with the login functionality of the applicationbylocalbranch
-
   Scenario: login with correct username with password
     Given I navigate to login page
     And  I entered username as "admin" and password as "pass"

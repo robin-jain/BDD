@@ -4,7 +4,7 @@ class Main {
     public static void main(String[] args) {
         try {
             int array[] = new int[10];
-            int array1[] = new int[10];
+            int array2[] = new int[10];
             array[9] = 30 / 5;
             return;
         }

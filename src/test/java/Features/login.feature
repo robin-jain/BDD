@@ -1,5 +1,5 @@
 Feature: loginFeature
-  this feaure deals with the login functionality of the application
+  this feaure deals with the login functionality of the applicationbyUIagainbyUIthird4444
 
   Scenario: login with correct username with password
     Given I navigate to login page

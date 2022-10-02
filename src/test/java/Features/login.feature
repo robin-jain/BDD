@@ -1,5 +1,7 @@
 Feature: loginFeature
   this feaure deals with the login functionality of the applicationbyRemote
+  this feaure deals with the login functionality of the applicationbyUI
+
 
   Scenario: login with correct username with password
     Given I navigate to login page
